@@ -1,5 +1,5 @@
 # sudokuSolver
-A console application for solving sudoku puzzle
+A console application for solving sudoku puzzle<br>
 
 Sample Input:
 5 3 0 0 7 0 0 0 0
